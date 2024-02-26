@@ -1,0 +1,2 @@
+mysql-connector==2.2.9
+prettytable==2.2.1
