@@ -1,5 +1,5 @@
 # Multi-Shard Script
-This script allows you to execute the same commands on multiple MySQL hosts simultaneously.
+This script allows you to execute the same commands on multiple MySQL hosts.
 
     Note: While not necessarily the optimal solution, it gets the job done! 😄
 
